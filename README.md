@@ -1,2 +1,3 @@
 # hello-world
-This is hello-world repository
+
+Say hello-world!
